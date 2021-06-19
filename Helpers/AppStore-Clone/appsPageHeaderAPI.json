@@ -1,1 +1,20 @@
-Test
+[
+    {
+    "id": "447188370",
+    "name": "Snapchat",
+    "tagline": "Life's more fun when you live in the moment :)",
+    "imageUrl": "https://gtmike56.github.io/Helpers/AppStore-Clone/SnapchatHeader.jpeg"
+  },
+  {
+    "id": "454638411",
+    "name": "Facebook",
+    "tagline": "Keeping up with friends is faster than ever.",
+    "imageUrl": "https://gtmike56.github.io/Helpers/AppStore-Clone/FacebookHeader.jpeg"
+  },
+  {
+    "id": "389801252",
+    "name": "Instagram",
+    "tagline": "A simple way to capture and shared the world's moments.",
+    "imageUrl": "https://gtmike56.github.io/Helpers/AppStore-Clone/InstagramHeader.jpeg"
+  }
+]
