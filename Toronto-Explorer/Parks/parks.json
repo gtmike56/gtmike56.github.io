@@ -1,1 +1,52 @@
-
+[
+  {
+    "name": "High Park",
+    "description": "High Park is a municipal park in Toronto, Ontario, Canada. High Park is a mixed recreational and natural park, with sporting facilities, cultural facilities, educational facilities, gardens, playgrounds and a zoo.",
+    "location": "",
+    "rating": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark_thumbnail.jpg",
+    "photos": [
+      
+    ]
+  },
+  {
+    "name": "Berczy Park",
+    "description": "Tree-lined park featuring an open plaza with a 2-tiered fountain with dog & cat sculptures.",
+    "location": "",
+    "rating": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berczy-park-thumbnail.jpg",
+    "photos": [
+      
+    ]
+  },
+  {
+    "name": "Corktown Common",
+    "description": "Large park featuring playgrounds, a splash pad & walking paths, plus picnic tables & washrooms.",
+    "location": "",
+    "rating": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
+    "photos": [
+      
+    ]
+  },
+  {
+    "name": "Riverdale Park East",
+    "description": "A popular tobogganing spot, this sizable park with skyline views offers an ice rink & sports fields.",
+    "location": "",
+    "rating": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
+    "photos": [
+      
+    ]
+  },
+  {
+    "name": "Humber Bay Park East",
+    "description": "Natural lakeside park & butterfly habitat on reclaimed land with cycling trails & ponds.",
+    "location": "",
+    "rating": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay_park_east_thumbnail.jpeg",
+    "photos": [
+      
+    ]
+  }
+]
