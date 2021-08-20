@@ -4,11 +4,9 @@
     "description": "Sprawling natural history & world cultures galleries, plus dinosaurs in the Libeskind crystal wing.",
     "location": "",
     "rating": "",
-    "thumbnail": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/RoyalOntarioMuseumThimbnail.png",
     "photos": [
-      {
-        "url": ""
-      }
+      
     ]
   },
   {
@@ -16,11 +14,9 @@
     "description": "Large gallery with huge Canadian collection, European masterworks & a major Frank Gehry renovation.",
     "location": "",
     "rating": "",
-    "thumbnail": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/art-gallery-of-ontarioThumbnail.jpg",
     "photos": [
-      {
-        "url": ""
-      }
+      
     ]
   },
   {
@@ -28,11 +24,9 @@
     "description": "A fantastic place to see murals, and an important location in the history of Toronto's legal street art scene.",
     "location": "",
     "rating": "",
-    "thumbnail": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/graffity_alley_thumbnail.jpg",
     "photos": [
-      {
-        "url": ""
-      }
+      
     ]
   },
   {
@@ -40,11 +34,9 @@
     "description": "Grand 18th-century castle featuring regular tours & gardens that are open seasonally.",
     "location": "",
     "rating": "",
-    "thumbnail": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
     "photos": [
-      {
-        "url": ""
-      }
+      
     ]
   },
   {
@@ -52,11 +44,9 @@
     "description": "LUMAS Toronto is our second gallery in Canada, bringing our renowned photo art portfolio to Yorkville, Toronto’s most celebrated neighbourhood of style and culture.",
     "location": "",
     "rating": "",
-    "thumbnail": "",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/lumas_thumbnail.jpg",
     "photos": [
-      {
-        "url": ""
-      }
+    
     ]
   }
 ]
