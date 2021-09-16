@@ -4,7 +4,7 @@
     "description": "High Park is a municipal park in Toronto, Ontario, Canada. High Park is a mixed recreational and natural park, with sporting facilities, cultural facilities, educational facilities, gardens, playgrounds and a zoo.",
     "latitude": 43.646548,
     "longitude": -79.46369,
-    "rating": "",
+    "rating": 5.0,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark_thumbnail.jpg",
     "photos": [
       
@@ -15,7 +15,7 @@
     "description": "Tree-lined park featuring an open plaza with a 2-tiered fountain with dog & cat sculptures.",
     "latitude": 43.647984,
     "longitude": -79.375396,
-    "rating": "",
+    "rating": 2.5,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berczy-park-thumbnail.jpg",
     "photos": [
       
@@ -26,7 +26,7 @@
     "description": "Large park featuring playgrounds, a splash pad & walking paths, plus picnic tables & washrooms.",
     "latitude": 43.653905,
     "longitude": -79.35269,
-    "rating": "",
+    "rating": 4.7,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
     "photos": [
       
@@ -37,7 +37,7 @@
     "description": "A popular tobogganing spot, this sizable park with skyline views offers an ice rink & sports fields.",
     "latitude": 43.669926,
     "longitude": -79.355297,
-    "rating": "",
+    "rating": 4.6,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
     "photos": [
       
@@ -48,7 +48,7 @@
     "description": "Natural lakeside park & butterfly habitat on reclaimed land with cycling trails & ponds.",
     "latitude": 43.622046,
     "longitude": -79.475916,
-    "rating": "",
+    "rating": 5.0,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay_park_east_thumbnail.jpeg",
     "photos": [
       
