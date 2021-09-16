@@ -1,1 +1,45 @@
 
+[
+  {
+    "name": "Goodfellas Wood Oven Pizza",
+    "description": "Neapolitan-style pizza, pasta & other Italian classics are the specialty at this contemporary venue.",
+    "latitude": 43.6484375,
+    "longitude": -79.46369,
+    "rating": "",
+    "cuisine": "Italian",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/goodfellasthumbnail.jpg",
+    "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/goodfellasthumbnail.jpg", 
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/goodfellas1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/goodfellas2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/goodfellas3.jpg"
+    ]
+  },
+  {
+    "name": "Alo Restaurant",
+    "description": "French tasting menu served in stylish, serene surrounds atop a Victorian building.",
+    "latitude": 43.6485745,
+    "longitude": -79.395767,
+    "rating": "",
+    "cuisine": "French",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/alothumbnail.jpg",
+    "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/alothumbnail.jpg", 
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/alo1.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/alo2.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/alo3.jpeg"
+    ]
+  },
+ {
+    "name": "Spring Sushi",
+    "description": "Brightly lit, spacious place for Japanese & Thai cuisine, with a patio & touch-screen food ordering.",
+    "latitude": 43.656551,
+    "longitude": -79.380493,
+    "rating": "",
+    "cuisine": "Japanese",
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/springsushithumbnail.jpg",
+    "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/springsushithumbnail.jpg", 
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/springsushi1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/springsushi2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Food/springsushi3.jpg"
+    ]
+  }
+]
