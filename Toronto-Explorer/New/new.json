@@ -4,7 +4,8 @@
     "description": "This summer we said a bittersweet farewell to Italian pescatarian spot Ufficio on Dundas West. The restaurant we know is no more, but the same owners have transitioned to a new concept in the same space. Gia, meaning ‘God is gracious,’ sees the same delicious Italian fare, served in a more responsible manner. The plant-forward menu of fresh, handmade pasta is rooted in environmental sustainability, with produce coming from local suppliers like 100km Foods and Clearwater Farms.",
     "latitude": 43.649502,
     "longitude": -79.423127,
-    "rating": 4.8,
+    "rating": 3.8,
+    "cuisine": "Italian",
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/giathumbnail.jpg",
     "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/giathumbnail.jpg",
       "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/gia1.jpg",
@@ -17,22 +18,24 @@
     "latitude": 43.645061,
     "longitude": -79.400437,
     "rating": 4.4,
+    "cuisine": "American",
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/velathumbnail.png",
     "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/velathumbnail.png",
       "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/vela1.jpg",
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/vela1.jpg"
     ]
   },
-  {
-    "name": "Skyflower",
-    "description": "Fans of MasterChef Canada winner Eric Chong will be pleased to hear that his Skyflower pop-up from last fall is back as a permanent fixture on College Street, just west of Spadina. Bask in the beauty of their lush, flower-laden heated rooftop patio, with spectacular views of the CN Tower and the city skyline. The club beats are bumping and the twinkle lights are glowing, while you sip on Instagram-worthy cocktails like the Skyflower and snack on share plates like lamb spiducci and fried popcorn chicken.",
-    "latitude": 43.657979,
-    "longitude": -79.401453,
-    "rating": 5.0,
-    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/skyflowerthumbnail.jpg",
-    "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/skyflowerthumbnail.jpg",
-      "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/skyflower1.jpg",
-               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/skyflower2.jpg"
+ {
+    "name": "Corktown Common",
+    "description": "The jewel in the landscape of the West Don Lands, Corktown Common is a 7.3 hectare (18 acre) park located at the foot of Lower River Street and Bayview Avenue. Situated on former industrial lands, the park has transformed an underutilized brownfield into a spectacular park and community meeting place featuring a marsh, sprawling lawns, urban prairies, playground areas, a splash pad and a variety of inviting features like a fireplace, permanent barbeque, large communal picnic tables and washrooms. Built as part of the revitalization of the West Don Lands by Waterfront Toronto, this sophisticated park was designed by Michael Van Valkenburgh Associates. The park offers a diverse range of habitats for a growing population of birds, amphibians and insects. Sustainable maintenance practices contribute to the preservation of capital investments made in the new waterfront public park system, and help to protect the ecological integrity of this complex greenspace. The City's dedicated and qualified staff work in this park to provide specialized organic landscape and turf maintenance.",
+    "latitude": 43.653905,
+    "longitude": -79.35269,
+    "rating": 4.7,
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
+    "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg"
+      
     ]
   }
 ]
