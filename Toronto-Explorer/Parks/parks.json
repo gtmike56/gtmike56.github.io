@@ -7,7 +7,7 @@
     "rating": 5.0,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark_thumbnail.jpg",
     "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark_thumbnail.jpg",
-               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark1.jpg,
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark1.jpg",
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/highpark2.jpg"
       
     ]
@@ -21,7 +21,7 @@
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berczy-park-thumbnail.jpg",
     "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berczy-park-thumbnail.jpg",
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berszypark1.jpg",
-               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berszypark2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/berszypark2.jpg"
       
     ]
   },
@@ -33,7 +33,7 @@
     "rating": 4.7,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
     "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown_common_thumbnail.jpg",
-               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown1.jpg,
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown1.jpg",
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/corktown2.jpg"
       
     ]
@@ -47,7 +47,7 @@
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/riversdaleparkthumbnail.jpg",
     "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/riversdaleparkthumbnail.jpg",
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/riversdalepark1.jpg",
-               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/riversdalepark2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/riversdalepark2.jpg"
       
     ]
   },
@@ -58,8 +58,8 @@
     "longitude": -79.475916,
     "rating": 5.0,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay_park_east_thumbnail.jpeg",
-    "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay_park_east_thumbnail.jpeg"
-               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay1.jpeg"
+    "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay_park_east_thumbnail.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay1.jpeg",
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Parks/humberbay2.jpg"
       
     ]
