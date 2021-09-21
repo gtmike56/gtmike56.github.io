@@ -2,7 +2,8 @@
   {
 		"name": "Royal Ontario Museum",
 		"description": "Sprawling natural history & world cultures galleries, plus dinosaurs in the Libeskind crystal wing.",
-		"latitude": 43.667662,
+	"category": "Art",	
+	  "latitude": 43.667662,
 		"longitude": -79.394698,
 		"rating": 4.7,
 		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/RoyalOntarioMuseumThimbnail.png",
@@ -15,7 +16,8 @@
   {
 		"name": "Art Gallery of Ontario",
 		"description": "Large gallery with huge Canadian collection, European masterworks & a major Frank Gehry renovation.",
-		"latitude": 43.653477,
+	"category": "Art",		
+	  "latitude": 43.653477,
 		"longitude": -79.392686,
 		"rating": 4.0,
 		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/art-gallery-of-ontarioThumbnail.jpg",
@@ -28,7 +30,8 @@
   {
 		"name": "CN Tower",
 		"description": "The CN Tower is a 553.3 m-high concrete communications and observation tower located in the downtown core of Toronto, Ontario, Canada. Built on the former Railway Lands, it was completed in 1976. Its name 'CN' originally referred to Canadian National, the railway company that built the tower.",
-		"latitude": 43.642566,
+	"category": "Art",		
+	  "latitude": 43.642566,
 		"longitude": -79.387057,
 		"rating": 5.0,
 		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/cntower2.jpg",
@@ -40,7 +43,8 @@
   {
     "name": "Graffiti Alley",
     "description": "A fantastic place to see murals, and an important location in the history of Toronto's legal street art scene.",
-    "latitude": 43.648332,
+    "category": "Art",	
+	  "latitude": 43.648332,
     "longitude": -79.396419,
     "rating": 4.0,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/graffity_alley_thumbnail.jpg",
@@ -53,6 +57,7 @@
 	{
 		"name": "Casa Loma",
 		"description": "Grand 18th-century castle featuring regular tours & gardens that are open seasonally.",
+		"category": "Art",	
 		"latitude": 43.682722,
 		"longitude": -79.411307,
 		"rating": 4.9,
@@ -66,7 +71,8 @@
   {
     "name": "LUMAS Toronto",
     "description": "LUMAS Toronto is our second gallery in Canada, bringing our renowned photo art portfolio to Yorkville, Toronto’s most celebrated neighbourhood of style and culture.",
-    "latitude": 43.670335,
+    "category": "Art",	
+	  "latitude": 43.670335,
     "longitude": -79.394379,
     "rating": 3.4,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/lumas_thumbnail.jpg",
