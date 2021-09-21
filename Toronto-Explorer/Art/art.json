@@ -1,26 +1,42 @@
 [
   {
-    "name": "Royal Ontario Museum",
-    "description": "Sprawling natural history & world cultures galleries, plus dinosaurs in the Libeskind crystal wing.",
-    "latitude": 43.667662,
-    "longitude": -79.394698,
-    "rating": 4.7,
-    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/RoyalOntarioMuseumThimbnail.png",
-    "photos": [
-      
-    ]
-  },
+		"name": "Royal Ontario Museum",
+		"description": "Sprawling natural history & world cultures galleries, plus dinosaurs in the Libeskind crystal wing.",
+		"latitude": 43.667662,
+		"longitude": -79.394698,
+		"rating": 4.7,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/RoyalOntarioMuseumThimbnail.png",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/RoyalOntarioMuseumThimbnail.png",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/royalontariomuseum2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/royalontariomuseum3.jpeg"
+
+		]
+	},
   {
-    "name": "Art Gallery of Ontario",
-    "description": "Large gallery with huge Canadian collection, European masterworks & a major Frank Gehry renovation.",
-    "latitude": 43.653477,
-    "longitude": -79.392686,
-    "rating": 4.4,
-    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/art-gallery-of-ontarioThumbnail.jpg",
-    "photos": [
-      
-    ]
-  },
+		"name": "Art Gallery of Ontario",
+		"description": "Large gallery with huge Canadian collection, European masterworks & a major Frank Gehry renovation.",
+		"latitude": 43.653477,
+		"longitude": -79.392686,
+		"rating": 4.0,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/art-gallery-of-ontarioThumbnail.jpg",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/art-gallery-of-ontarioThumbnail.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/art2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/art3.jpg"
+
+		]
+	},
+  {
+		"name": "CN Tower",
+		"description": "The CN Tower is a 553.3 m-high concrete communications and observation tower located in the downtown core of Toronto, Ontario, Canada. Built on the former Railway Lands, it was completed in 1976. Its name 'CN' originally referred to Canadian National, the railway company that built the tower.",
+		"latitude": 43.642566,
+		"longitude": -79.387057,
+		"rating": 5.0,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/cntower2.jpg",
+		"photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/cntower3.jpeg",
+  "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/cntower2.jpg",
+  "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/cntowerthumbnail.jpg"
+		]
+	},
   {
     "name": "Graffiti Alley",
     "description": "A fantastic place to see murals, and an important location in the history of Toronto's legal street art scene.",
@@ -28,21 +44,25 @@
     "longitude": -79.396419,
     "rating": 4.0,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/graffity_alley_thumbnail.jpg",
-    "photos": [
+    "photos": [ "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/graffity_alley_thumbnail.jpg",
+                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/graffity2.jpg",
+                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/graffity1.jpg"
       
     ]
   },
-  {
-    "name": "Casa Loma",
-    "description": "Grand 18th-century castle featuring regular tours & gardens that are open seasonally.",
-    "latitude": 43.682722,
-    "longitude": -79.411307,
-    "rating": 4.8,
-    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
-    "photos": [
-      
-    ]
-  },
+	{
+		"name": "Casa Loma",
+		"description": "Grand 18th-century castle featuring regular tours & gardens that are open seasonally.",
+		"latitude": 43.682722,
+		"longitude": -79.411307,
+		"rating": 4.9,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
+		"photos": [
+"https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
+      "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/casaloma2.jpg",
+      "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/PopularPlaces/casaloma3.jpg"
+		]
+	},
   {
     "name": "LUMAS Toronto",
     "description": "LUMAS Toronto is our second gallery in Canada, bringing our renowned photo art portfolio to Yorkville, Toronto’s most celebrated neighbourhood of style and culture.",
@@ -50,7 +70,9 @@
     "longitude": -79.394379,
     "rating": 3.4,
     "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/lumas_thumbnail.jpg",
-    "photos": [
+    "photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/lumas_thumbnail.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/lumas1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/lumas2.jpg",
     
     ]
   }
