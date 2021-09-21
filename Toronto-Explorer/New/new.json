@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Gia",
+    "description": "This summer we said a bittersweet farewell to Italian pescatarian spot Ufficio on Dundas West. The restaurant we know is no more, but the same owners have transitioned to a new concept in the same space. Gia, meaning ‘God is gracious,’ sees the same delicious Italian fare, served in a more responsible manner. The plant-forward menu of fresh, handmade pasta is rooted in environmental sustainability, with produce coming from local suppliers like 100km Foods and Clearwater Farms.",
+    "latitude": 43.649502,
+    "longitude": -79.423127,
+    "rating": 4.8,
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/RoyalOntarioMuseumThimbnail.png",
+    "photos": [
+      
+    ]
+  },
+  {
+    "name": "Vela",
+    "description": "Inspired by a constellation of stars, this beautiful space was designed by award-winning architecture studio PARTISANS. Dine in an intimate booth, at a table in the lounge area or at the L-shaped bar that backs onto the open kitchen for a chef’s table experience. There’s also a champagne bar and a sprawling 2,000-square-foot patio.",
+    "latitude": 43.645061,
+    "longitude": -79.400437,
+    "rating": 4.4,
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/art-gallery-of-ontarioThumbnail.jpg",
+    "photos": [
+      
+    ]
+  },
+  {
+    "name": "Skyflower,
+    "description": "Fans of MasterChef Canada winner Eric Chong will be pleased to hear that his Skyflower pop-up from last fall is back as a permanent fixture on College Street, just west of Spadina. Bask in the beauty of their lush, flower-laden heated rooftop patio, with spectacular views of the CN Tower and the city skyline. The club beats are bumping and the twinkle lights are glowing, while you sip on Instagram-worthy cocktails like the Skyflower and snack on share plates like lamb spiducci and fried popcorn chicken.",
+    "latitude": 43.657979,
+    "longitude": -79.401453,
+    "rating": 5.0,
+    "thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Art/casaloma_thumbnail.jpg",
+    "photos": [
+      
+    ]
+  }
+]
