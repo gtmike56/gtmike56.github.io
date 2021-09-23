@@ -1,0 +1,56 @@
+[
+  {
+		"name": "GoodLife Fitness",
+		"description": "From personal training to our fitness classes, the goal of every GoodLife Fitness club and gym is to help all Canadians live a fit and healthy good life.",
+	"category": "Sport",	
+	  "latitude": 43.654174,
+		"longitude": -79.380812,
+		"rating": 4.9,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/goodlifethumbnail.jpeg",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/goodlifethumbnail.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/goodlife1.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/goodlife2.jpg"
+		]
+	},
+  {
+		"name": "BeHot Yoga",
+		"description": "The facility is equipped with small lockers for wallets/phones and showers, three in the women’s large change room and two in the men’s.  We have two yoga rooms - The 'Hot' room is heated to 40 degrees Celsius for Original Hot Yoga, and the “Be” room is kept at a comfortably reduced heat of 30 degrees for warm Vinyasa and Yin practices. The “Hot” room is heated using radiant heating panels and equipped with proper ventilation. There is a beautiful lobby for your leisure before and after class where you can lounge comfortably and browse in our clothing boutique. We also sell coconut water and bottled water in addition to mat and towels that you have the option to rent. Our staff is very friendly and knowledgeable. Feel free to ask any questions or simply get to know each other better. We welcome your energy into our yoga community with open arms.",
+	"category": "Sport",	
+	  "latitude": 43.648932,
+		"longitude": -79.375331,
+		"rating": 4.5,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/behotthumbnail.png",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/goodlifethumbnail.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/behot1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/behot2.jpg"
+		]
+	},
+  {
+		"name": "OVO Athletic Centre",
+		"description": "The OVO Athletic Centre, formerly the BioSteel Centre and the Toronto Raptors Training Centre, is a basketball practice facility in Toronto, Ontario, Canada. Opened on February 10, 2016,[1] the facility is home to the Toronto Raptors of the National Basketball Association (NBA), and owned by the team's owner, Maple Leaf Sports & Entertainment (MLSE). It is located on leased public land in Exhibition Place, near Dufferin Street and the Gardiner Expressway, west of downtown. It is named for OVO Sound, a Canadian subsidiary of Warner Records.",
+	"category": "Sport",	
+	  "latitude": 43.631693,
+		"longitude": -79.427225,
+		"rating": 4.6,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/ovothumbnail.jpg",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/ovothumbnail.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/ovo1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/ovo2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/ovo3.jpg"
+		]
+	},
+   {
+		"name": "Toronto Athletic Club",
+		"description": "No other club in downtown Toronto has a view like this. You may find yourself gazing off into the distance mid-workout - the CN Tower looks close enough to touch, the Toronto islands offer a serene landscape and the city streets below are alive and bustling. Up here in the rarefied air, all is well and all manner of activity is available for your enjoyment.",
+	"category": "Sport",	
+	  "latitude": 43.647177,
+		"longitude": -79.381576,
+		"rating": 5.0,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athletucclubthumbnail.jpeg",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athletucclubthumbnail.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athleticclub1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athleticclub2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athleticclub3.jpg"
+		]
+	}
+]
