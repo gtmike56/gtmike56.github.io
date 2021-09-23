@@ -1,6 +1,6 @@
 [
   {
-    "name": "Gia",
+    "name": "Gia Restaurant",
     "description": "This summer we said a bittersweet farewell to Italian pescatarian spot Ufficio on Dundas West. The restaurant we know is no more, but the same owners have transitioned to a new concept in the same space. Gia, meaning ‘God is gracious,’ sees the same delicious Italian fare, served in a more responsible manner. The plant-forward menu of fresh, handmade pasta is rooted in environmental sustainability, with produce coming from local suppliers like 100km Foods and Clearwater Farms.",
     "category": "Food",
     "latitude": 43.649502,
@@ -13,6 +13,20 @@
                "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/New/gia2.jpg"
     ]
   },
+     {
+		"name": "Toronto Athletic Club",
+		"description": "No other club in downtown Toronto has a view like this. You may find yourself gazing off into the distance mid-workout - the CN Tower looks close enough to touch, the Toronto islands offer a serene landscape and the city streets below are alive and bustling. Up here in the rarefied air, all is well and all manner of activity is available for your enjoyment.",
+	"category": "Sport",	
+	  "latitude": 43.647177,
+		"longitude": -79.381576,
+		"rating": 5.0,
+		"thumbnail": "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athletucclubthumbnail.jpeg",
+		"photos": ["https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athletucclubthumbnail.jpeg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athleticclub1.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athleticclub2.jpg",
+               "https://github.com/gtmike56/gtmike56.github.io/raw/main/Toronto-Explorer/Sport/athleticclub3.jpg"
+		]
+	},
   {
     "name": "Vela",
     "description": "Inspired by a constellation of stars, this beautiful space was designed by award-winning architecture studio PARTISANS. Dine in an intimate booth, at a table in the lounge area or at the L-shaped bar that backs onto the open kitchen for a chef’s table experience. There’s also a champagne bar and a sprawling 2,000-square-foot patio.",
